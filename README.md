@@ -24,10 +24,9 @@ I am a developer driven by logic and creativity, currently pursuing my degree at
 #### 🌳 [Interactive Spanning Tree Visualizer](https://github.com/JOHAN247/Visualizador-interactivo-de-rboles-Generadores-en-K-m-n-)
 An interactive tool built with **Python** to visualize $K_{m,n}$ graph structures and their spanning trees. 
 * **Impact:** Simplifies complex graph theory concepts through real-time manipulation.
-* **Tech:** Python, Matplotlib/NetworkX (or your specific library).
+* **Tech:** Python, Matplotlib/NetworkX, streamlit.
 
-#### 🎮 [UNCAL Project]
-*A specialized project developed within the university environment focusing on [add brief description, e.g., "game mechanics and logic performance"].*
+
 
 ---
 
