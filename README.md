@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineering Student at Universidad Nacional de Colombia
 
-I am a developer driven by logic and creativity, currently pursuing my degree at UNAL. I specialize in building efficient solutions using **Python** and **C++**, with a strong interest in algorithms and data visualization.
+I am a developer driven by logic and creativity, currently pursuing my degree at UNAL. I specialize in building efficient solutions using **Python** and **C++**, with a strong interest in algorithms, data visualization and automations.
 
 ---
 
